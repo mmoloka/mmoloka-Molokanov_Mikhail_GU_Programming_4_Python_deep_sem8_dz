@@ -1,0 +1,56 @@
+[
+  {
+    "dir_path": "C:\\Users\\Михаил\\Desktop\\sem8_dz",
+    "dir_dict": {
+      "package": 7738
+    },
+    "file_dict": {}
+  },
+  {
+    "dir_path": "C:\\Users\\Михаил\\Desktop\\sem8_dz\\package",
+    "dir_dict": {
+      "dir_1": 130,
+      "dir_2": 165
+    },
+    "file_dict": {
+      "file3.json": 357,
+      "file3.pickle": 246,
+      "file3.txt": 266,
+      "log2_access.csv": 286,
+      "log2_access.json": 694,
+      "log2_access.pickle": 336,
+      "log_access.csv": 86,
+      "log_access.json": 139,
+      "log_access.pickle": 136,
+      "task1_1.py": 732,
+      "task1_2.py": 1207,
+      "task1_3.py": 652,
+      "task2.py": 2245,
+      "__init__.py": 61
+    }
+  },
+  {
+    "dir_path": "C:\\Users\\Михаил\\Desktop\\sem8_dz\\package\\dir_1",
+    "dir_dict": {
+      "dir_1_1": 55
+    },
+    "file_dict": {
+      "text_1.txt": 75
+    }
+  },
+  {
+    "dir_path": "C:\\Users\\Михаил\\Desktop\\sem8_dz\\package\\dir_1\\dir_1_1",
+    "dir_dict": {},
+    "file_dict": {
+      "text_1_1.txt": 55
+    }
+  },
+  {
+    "dir_path": "C:\\Users\\Михаил\\Desktop\\sem8_dz\\package\\dir_2",
+    "dir_dict": {},
+    "file_dict": {
+      "text_2.txt": 42,
+      "text_3.txt": 123
+    }
+  }
+]
